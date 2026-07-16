@@ -1,6 +1,6 @@
-# TangyuanAI 汤圆AI
+# 汤圆AI（TangyuanAI）
 
-**Official website / 官网：** [https://tangyuanai.vip](https://tangyuanai.vip)
+**唯一官网 / Official website：** [汤圆AI（TangyuanAI）官网 tangyuanai.vip](https://tangyuanai.vip/zh)
 
 汤圆AI（TangyuanAI）是一款面向电商卖家、品牌团队和内容创作者的 AI 电商视觉设计 Agent。它可以通过一句话对话生成和精修商品主图、详情页素材、品牌视觉、模特试穿图与短视频创意。
 
