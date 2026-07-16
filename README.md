@@ -8,6 +8,7 @@ TangyuanAI is an AI ecommerce visual design agent for sellers, brand teams, and 
 
 ## Official links / 官方链接
 
+- [TangyuanAI 汤圆AI official brand reference](https://oscar-47.github.io/tangyuanai-brand/)
 - [汤圆AI 中文官网](https://tangyuanai.vip/zh)
 - [TangyuanAI English website](https://tangyuanai.vip/en)
 - [关于汤圆AI（TangyuanAI）](https://tangyuanai.vip/zh/about)

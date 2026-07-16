@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oscar-47.github.io/tangyuanai-brand/sitemap.xml
